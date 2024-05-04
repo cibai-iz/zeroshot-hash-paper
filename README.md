@@ -13,7 +13,8 @@
 ***2019 PRL*** Zero-shot Hashing with orthogonal projection for image retrieval [[Paper]](https://eprints.ncl.ac.uk/fulltext.aspx?url=248292%2fD3F2AB30-6240-4042-AE67-6A818AA29848.pdf&pub_id=248292&ts=638427896399245251)  
 ***2020 TNNLS*** Transductive Zero-Shot Hashing for Multilabel Image Retrieval[[Paper]](https://sci-hub.yncjkj.com/https://ieeexplore.ieee.org/abstract/document/9309012/)   
 ***2020 ICPR*** Visual-Semantic Bi-Branch Network for Zero-Shot Hashing(VSB2-Net)[[Paper]](https://sci-hub.yncjkj.com/https://ieeexplore.ieee.org/abstract/document/9412798/)  
-***2021 PRL*** An orthogonal hashing method for zero-shot cross-modal retrieval(CHOP)[[Paper]](https://sci-hub.yncjkj.com/https://www.sciencedirect.com/science/article/pii/S0167865521000787)    
+***2021 PRL*** An orthogonal hashing method for zero-shot cross-modal retrieval(CHOP)[[Paper]](https://sci-hub.yncjkj.com/https://www.sciencedirect.com/science/article/pii/S0167865521000787)  
+***2022 TGRS*** Zero-Shot Cross-Modal Retrieval for Remote Sensing Images With Minimal Supervision[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849128)  
 ### 😄Cross-Modal 
 * #### Traditional-Supervised  
 * #### Deep-Supervised
